@@ -1,0 +1,14 @@
+${AnsiColor.BRIGHT.BLUE} $$$$$$$$\ $$$$$$\  $$$$$$\  $$\   $$\  ${AnsiColor.BRIGHT.GREEN}      $$$$$$\       $$$$$$\
+${AnsiColor.BRIGHT.BLUE} \____$$  |\_$$  _|$$  __$$\ $$$\  $$ | ${AnsiColor.BRIGHT.GREEN}     $$  __$$\     $$  __$$\
+${AnsiColor.BRIGHT.BLUE}     $$  /   $$ |  $$ /  $$ |$$$$\ $$ | ${AnsiColor.BRIGHT.GREEN}     $$ /  \__|    $$ /  $$ |
+${AnsiColor.BRIGHT.BLUE}    $$  /    $$ |  $$ |  $$ |$$ $$\$$ | ${AnsiColor.BRIGHT.GREEN}     \$$$$$$\      $$$$$$$$ |
+${AnsiColor.BRIGHT.BLUE}   $$  /     $$ |  $$ |  $$ |$$ \$$$$ | ${AnsiColor.BRIGHT.GREEN}      \____$$\     $$  __$$ |
+${AnsiColor.BRIGHT.BLUE}  $$  /      $$ |  $$ |  $$ |$$ |\$$$ | ${AnsiColor.BRIGHT.GREEN}     $$\   $$ |    $$ |  $$ |
+${AnsiColor.BRIGHT.BLUE} $$$$$$$$\ $$$$$$\  $$$$$$  |$$ | \$$ | ${AnsiColor.BRIGHT.GREEN}     \$$$$$$  |$$\ $$ |  $$ |$$\
+${AnsiColor.BRIGHT.BLUE} \________|\______| \______/ \__|  \__| ${AnsiColor.BRIGHT.GREEN}      \______/ \__|\__|  \__|\__|
+__________________________________________________________________________________________________________________________
+${AnsiColor.BRIGHT.ORANGE} :: ZION COPORATION S.A :: Running Spring Boot ${spring-boot.version} ::
+:: Microservice ${spring.application.name} version ${info.project.version}
+:: ZION - DEV :: ${AnsiColor.BRIGHT.DEFAULT}
+__________________________________________________________________________________________________________________________
+

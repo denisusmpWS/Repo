@@ -1,0 +1,33 @@
+spring:
+  application:
+    name: test
+  cloud:
+    config:
+      uri: http://192.168.1.41:5000
+      name: test
+      username: APTLDES
+      password: '{cipher}68c3089dada035bc26c2134d0abf5565c012070104565b68510e1201a6a6f127'
+  banner:
+    location: banner.txt
+  output:
+    ansi:
+      enabled: ALWAYS
+info:
+  project:
+    name: Proyect core support
+    description: Proyecto support core
+    version: 1.0.0-SNAPSHOT
+application:
+  swagger:
+    title: test
+    description: testing
+    groupName: test
+    version: 1.0.0
+
+server:
+  controller:
+    context-path: /test/
+
+
+encrypt:
+  key: devsoa123
